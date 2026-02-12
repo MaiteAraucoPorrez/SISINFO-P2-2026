@@ -1,4 +1,4 @@
-# Proyecto Web - Hola Mundo
+# Proyecto Web - Sistemas de información
 
 ## Descripción
 Proyecto web básico que muestra un mensaje "Hola Mundo" utilizando HTML5 y CSS3.
